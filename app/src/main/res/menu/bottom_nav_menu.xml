@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:icon="@drawable/ic_person_black_24dp"
+        android:id="@+id/user"
+        android:title="user"></item>
+
+    <item
+        android:icon="@drawable/ic_bookmark_black_24dp"
+        android:id="@+id/bookmark"
+        android:title="bookmark"></item>
+
+    <item
+        android:icon="@drawable/ic_cloud_upload_black_24dp"
+        android:id="@+id/upload"
+        android:title="upload"></item>
+</menu>
